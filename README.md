@@ -1,1 +1,2 @@
-# my_SVM_model
+# my SVM model
+this is my SVM model
