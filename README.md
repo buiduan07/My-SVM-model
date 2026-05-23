@@ -1,2 +1,3 @@
-# my SVM model
-this is my SVM model
+# My SVM model
+---
+This is my SVM model
